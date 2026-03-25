@@ -8,7 +8,7 @@ Winaborator gives you an infinite canvas where you can open terminals, browse fi
 
 ---
 
-![Winaborator Canvas](screenshots/canvas.png)
+![Winaborator Canvas](canvas.png)
 
 ---
 
@@ -24,7 +24,7 @@ Winaborator is a Windows-native desktop app built for developers who work with m
 
 | Welcome Screen | Canvas with Terminals | File Tree |
 |---|---|---|
-| ![Welcome](screenshots/welcome.png) | ![Canvas](screenshots/canvas.png) | ![Inside](screenshots/inside.png) |
+| ![Welcome](welcome.png) | ![Canvas](canvas.png) | ![Inside](inside.png) |
 
 ---
 
